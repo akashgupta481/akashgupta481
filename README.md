@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**akashgupta481/akashgupta481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 
 <h3 align="center">
@@ -127,8 +117,3 @@ Worked on **Cancer Detection using CNN** and **Food Classification using Deep Le
 <p>
 <img align="left" height="195" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=akashguptadev"/>
 </p>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
