@@ -26,31 +26,13 @@ I build scalable, secure, and high-performance backend + automation solutions, m
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:**  
-  ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
-- **Cloud & Infra:**  
-  AWS (EKS, EC2, S3, DynamoDB, IAM, CloudWatch), Multi-Region Deployments
-
-- **Container & Orchestration:**  
-  Kubernetes, Helm, Kustomize, CRDs, Controllers, Minikube, Cluster Networking
-
-- **CI/CD & GitOps:**  
-  Jenkins, GitHub Actions, ArgoCD-style workflows, PR automation, GitHub CLI
-
-- **Observability & Monitoring:**  
-  Prometheus, Grafana, PromQL & Dashboards
-
-- **Automation & IaC:**  
-  Ansible, Terraform, Shell Scripting
-
-- **Datastores & Cache:**  
-  Redis, KeyDB, DynamoDB, PostgreSQL
-
-- **Security Domains:**  
-  Cisco SSE, Cisco SCFN/SFCN, Secure Gateway (SGW), Firewall Packet Flow
+- **Languages:** ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- **Cloud & Infra:**  AWS (EKS, EC2, S3, DynamoDB, IAM, CloudWatch), Multi-Region Deployments
+- **Container & Orchestration:**  Kubernetes, Helm, Kustomize, CRDs, Controllers, Minikube, Cluster Networking
+- **CI/CD & GitOps:**  Jenkins, GitHub Actions, ArgoCD-style workflows, PR automation, GitHub CLI
+- **Observability & Monitoring:**  Prometheus, Grafana, PromQL & Dashboards
+- **Automation & IaC:**  Ansible, Terraform, Shell Scripting
+- **Datastores & Cache:**  Redis, KeyDB, DynamoDB, PostgreSQL
 
 ---
 
