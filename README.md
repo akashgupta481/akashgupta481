@@ -75,19 +75,15 @@ Java Application which can be used by Transportation Company to manage their Rec
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-2088FF?logo=linkedin&logoColor=white&style=flat" height="25"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat" height="25"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" height="25"/></a>
-</p>
 
-- **Instagram:** akashguptaking  
-- **YouTube:** DevOps_Gyaan  
-- **LinkedIn:** akashgupta0919  
+<a href="https://instagram.com/akashguptaking" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+<a href="https://youtube.com/@DevOps_Gyaan" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+<a href="https://linkedin.com/in/akashgupta0919" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
+</a>
 
-(Links already added in badges below)
-
-<p align="left">
-<a href="akashguptaking"><img src="https://img.shields.io/badge/Instagram-Akash%20Gupta-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-<a href="DevOps_Gyaan"><img src="https://img.shields.io/badge/YouTube-DevOps%20Gyaan-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
-<a href="akashgupta0919"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Gupta-2088FF?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </p>
